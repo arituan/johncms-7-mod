@@ -1,0 +1,480 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: johncms\n"
+"POT-Creation-Date: 2016-12-26 14:57+0400\n"
+"PO-Revision-Date: 2017-01-23 15:29+0700\n"
+"Last-Translator: mobiCMS <dev@mobicms.net>\n"
+"Language-Team: Vietnamese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi\n"
+"X-Poedit-KeywordsList: _t;_p:1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Crowdin-Project: johncms\n"
+"X-Crowdin-Language: vi\n"
+"X-Crowdin-File: /library/default.pot\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/Hashtags.php:237 includes/lastcom.php:46 includes/top.php:47
+#: index.php:214 index.php:273 index.php:328
+msgid "The list is empty"
+msgstr "Danh sách trống"
+
+#: classes/Rating.php:140
+msgid "Vote"
+msgstr "Bình chọn cho tài liệu"
+
+#: classes/Tree.php:196 includes/addnew.php:185 includes/comments.php:51
+#: includes/del.php:31 includes/lastcom.php:24 includes/mkdir.php:48
+#: includes/moder.php:127 includes/new.php:27 includes/premod.php:26
+#: includes/search.php:35 includes/search.php:61 includes/tagcloud.php:23
+#: includes/tags.php:34 includes/top.php:34 index.php:62 index.php:159
+#: index.php:371
+msgid "Library"
+msgstr "Thư viện"
+
+#: includes/addnew.php:39
+#, php-format
+msgid "You cannot add the Article so often<br>Please, wait %d sec."
+msgstr ""
+"Bạn không thể thêm các bài viết như vậy thường xuyên <br>xin vui lòng, chờ "
+"%d sec."
+
+#: includes/addnew.php:40 includes/addnew.php:204 includes/del.php:62
+#: includes/del.php:86 includes/del.php:99 includes/del.php:144
+#: includes/del.php:152 includes/lastcom.php:49 includes/mkdir.php:62
+#: includes/moder.php:112 includes/moder.php:197 includes/top.php:105
+msgid "Back"
+msgstr "Quay lại"
+
+#: includes/addnew.php:54 includes/mkdir.php:30
+msgid "You have not entered the name"
+msgstr "Bạn chưa nhập tên"
+
+#: includes/addnew.php:69
+msgid "The file is invalid encoding, preferably UTF-8"
+msgstr "Tập tin là không hợp lệ mã hóa, tốt nhất là UTF-8"
+
+#: includes/addnew.php:69 includes/addnew.php:77 includes/addnew.php:82
+#: includes/addnew.php:160 includes/mkdir.php:31
+msgid "Repeat"
+msgstr "Lặp lại"
+
+#: includes/addnew.php:77
+msgid "Error uploading"
+msgstr "Lỗi tải lên"
+
+#: includes/addnew.php:82
+msgid "Invalid file format allowed * .txt"
+msgstr "Định dạng tệp không hợp lệ được phép * .txt"
+
+#: includes/addnew.php:89
+msgid "You have not entered text"
+msgstr "Bạn chưa nhập văn bản"
+
+#: includes/addnew.php:160 includes/moder.php:102
+msgid "Photo uploading error"
+msgstr "Ảnh tải lên lỗi"
+
+#: includes/addnew.php:174
+msgid "Article added"
+msgstr "Bài viết mới nhất được gửi"
+
+#: includes/addnew.php:174
+msgid ""
+"Thank you for what we have written. After checking moderated, your Article "
+"will be published in the library."
+msgstr ""
+"Cảm ơn bạn. Sau khi kiểm tra kiểm duyệt, bài viết của bạn sẽ được công bố "
+"trong thư viện."
+
+#: includes/addnew.php:176
+msgid "To Article"
+msgstr "Bài viết"
+
+#: includes/addnew.php:176 includes/mkdir.php:45
+msgid "To Section"
+msgstr "Phần"
+
+#: includes/addnew.php:185 index.php:335
+msgid "Write Article"
+msgstr "Viết bài"
+
+#: includes/addnew.php:188 includes/mkdir.php:51 includes/moder.php:138
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: includes/addnew.php:190 includes/moder.php:143
+msgid "Announce"
+msgstr "Thông báo"
+
+#: includes/addnew.php:192 includes/moder.php:147
+msgid "Text"
+msgstr "Văn bản"
+
+#: includes/addnew.php:195 includes/moder.php:190
+msgid "Commenting on the Article"
+msgstr "Bình luận về bài viết"
+
+#: includes/addnew.php:196 includes/moder.php:136
+msgid "To upload a photo"
+msgstr "Để tải lên một hình ảnh"
+
+#: includes/addnew.php:198
+msgid "Select the text file"
+msgstr "Chọn các tập tin văn bản"
+
+#: includes/addnew.php:199
+msgid "Text entry field will be ignored"
+msgstr "Trường nhập văn bản sẽ được bỏ qua"
+
+#: includes/addnew.php:200 includes/comments.php:56 includes/moder.php:154
+#: includes/new.php:56 includes/tags.php:34 includes/tags.php:52
+#: includes/top.php:76
+msgid "Tags"
+msgstr "Thẻ"
+
+#: includes/addnew.php:201
+msgid "Specify the Tag to the Article, separated by commas"
+msgstr "Xác định các từ khóa vào bài viết, cách nhau bằng dấu phẩy"
+
+#: includes/addnew.php:202 includes/mkdir.php:60 includes/moder.php:195
+msgid "Save"
+msgstr "Lưu"
+
+#: includes/comments.php:31 includes/comments.php:43 index.php:71
+msgid "Access forbidden"
+msgstr "Truy cập bị từ chối"
+
+#: includes/comments.php:57 includes/lastcom.php:42 includes/new.php:59
+#: includes/premod.php:56 includes/search.php:104 includes/tags.php:50
+#: includes/top.php:79 index.php:317 index.php:400
+msgid "Who added"
+msgstr "Những người thêm vào"
+
+#: includes/comments.php:58 includes/moder.php:192 includes/new.php:69
+#: includes/search.php:106 includes/tags.php:51 includes/top.php:89
+#: index.php:410
+msgid "Number of readings"
+msgstr "Lượt đọc"
+
+#: includes/comments.php:79 includes/new.php:75 includes/new.php:77
+#: includes/tags.php:53 includes/top.php:95 includes/top.php:97 index.php:416
+#: index.php:419
+msgid "Comments"
+msgstr "Bình luận"
+
+#: includes/comments.php:90
+msgid "Wrong data"
+msgstr "Lỗi dữ liệu"
+
+#: includes/del.php:31 includes/del.php:92 includes/del.php:117
+#: includes/del.php:128 includes/del.php:134 includes/premod.php:58
+#: index.php:208 index.php:267 index.php:281 index.php:337 index.php:459
+msgid "Delete"
+msgstr "Xóa"
+
+#: includes/del.php:43
+msgid "Section does not exist"
+msgstr "Phần không tồn tại"
+
+#: includes/del.php:50
+msgid "Are you sure you want to move the contents?"
+msgstr "Bạn có chắc muốn di chuyển nội dung?"
+
+#: includes/del.php:50
+msgid "Move"
+msgstr "Di chuyển"
+
+#: includes/del.php:50 includes/del.php:92 includes/del.php:117
+#: includes/del.php:128 includes/del.php:134
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+#: includes/del.php:62
+msgid "Successful transfer"
+msgstr "Chuyển thành công"
+
+#: includes/del.php:74 includes/moder.php:158
+msgid "Move to Section"
+msgstr "Di chuyển đến mục"
+
+#: includes/del.php:82 includes/premod.php:58
+msgid "Approve"
+msgstr "Duyệt"
+
+#: includes/del.php:86
+msgid "There are no Sections for moving"
+msgstr "Không có phần không để di chuyển"
+
+#: includes/del.php:92
+msgid "Are you sure you want to delete content?"
+msgstr "Bạn có chắc bạn muốn xóa nội dung?"
+
+#: includes/del.php:96
+#, php-format
+msgid ""
+"Successfully deleted:<br>Directories: (%d)<br>Articles: (%d)<br>Tags: "
+"(%d)<br>Comments: (%d)<br>Images: (%d)"
+msgstr ""
+"Xóa bỏ thành công: <br>thư mục:  (%d) <br>Bài viết: (%d) <br>Tags: (%d) "
+"<br>bình luận:  (%d) <br>Hình ảnh: (%d)"
+
+#: includes/del.php:104
+msgid "Section is not empty"
+msgstr "Danh mục này chưa có bài viết nào"
+
+#: includes/del.php:105
+msgid "Select action"
+msgstr "Chọn hành động"
+
+#: includes/del.php:107
+msgid "Delete with movement"
+msgstr "Xóa với phong trào"
+
+#: includes/del.php:108
+msgid "Delete all Sections and Articles"
+msgstr "Xóa tất cả các mục và các bài viết"
+
+#: includes/del.php:109
+msgid "Do"
+msgstr "Làm"
+
+#: includes/del.php:117 includes/del.php:128 includes/del.php:134
+msgid "Delete confirmation"
+msgstr "Xác nhận xóa bỏ"
+
+#: includes/del.php:124
+msgid "Articles do not exist"
+msgstr "Bài viết không tồn tại"
+
+#: includes/del.php:144 includes/del.php:152
+msgid "Deleted"
+msgstr "Xóa thành công"
+
+#: includes/download.php:57
+msgid "Author name"
+msgstr "Tên tác giả"
+
+#: includes/download.php:58
+msgid "Author last name"
+msgstr "Tác giả tên cuối cùng"
+
+#: includes/download.php:60
+msgid "Name of the book"
+msgstr "Tên của cuốn sách"
+
+#: includes/download.php:62
+msgid "Date"
+msgstr "Ngày"
+
+#: includes/lastcom.php:24 index.php:184
+msgid "Latest comments"
+msgstr "Bình luận mới nhất"
+
+#: includes/mkdir.php:45
+msgid "Section created"
+msgstr "Mục đã tạo"
+
+#: includes/mkdir.php:48 index.php:220
+msgid "Create Section"
+msgstr "Tạo mục"
+
+#: includes/mkdir.php:53 includes/moder.php:140
+msgid "Section description"
+msgstr "Phần mô tả"
+
+#: includes/mkdir.php:55 includes/moder.php:178
+msgid "Section type"
+msgstr "Loại mục"
+
+#: includes/mkdir.php:57 includes/moder.php:181 index.php:256
+msgid "Sections"
+msgstr "Các mục"
+
+#: includes/mkdir.php:58 includes/moder.php:182 index.php:256
+msgid "Articles"
+msgstr "Các bài viết"
+
+#: includes/moder.php:112
+msgid "Changed"
+msgstr "Thay đổi"
+
+#: includes/moder.php:128
+msgid "Edit Section"
+msgstr "Chỉnh sửa mục"
+
+#: includes/moder.php:128
+msgid "Edit Article"
+msgstr "Chỉnh sửa bài viết"
+
+#: includes/moder.php:151
+msgid "The text of the Article can not be edited, a large amount of data !!!"
+msgstr ""
+"Nội dung của bài viết không thể chỉnh sửa do kích thước dữ liệu quá lớn"
+
+#: includes/moder.php:164
+msgid "The ROOT"
+msgstr ""
+
+#: includes/moder.php:184
+msgid "Allow users to add their Articles?"
+msgstr "Cho phép người dùng thêm vào bài viết của họ?"
+
+#: includes/moder.php:185
+msgid "Yes"
+msgstr "Có"
+
+#: includes/moder.php:186
+msgid "No"
+msgstr "Không"
+
+#: includes/moder.php:188
+msgid "Verified"
+msgstr "Đã xác nhận"
+
+#: includes/new.php:27 index.php:178
+msgid "New Articles"
+msgstr "Các bài viết mới"
+
+#: includes/new.php:52 includes/top.php:72
+msgid "Section"
+msgstr "Mục"
+
+#: includes/new.php:64 includes/top.php:84 index.php:322 index.php:405
+msgid "Rating"
+msgstr "Bình chọn"
+
+#: includes/new.php:77 includes/top.php:97 index.php:420
+msgid "Comments are closed"
+msgstr "Bình luận đã bị đóng"
+
+#: includes/new.php:84 includes/premod.php:63 includes/search.php:114
+#: includes/tags.php:57 index.php:217 index.php:276 index.php:331
+msgid "Total"
+msgstr "Tổng số"
+
+#: includes/new.php:86 includes/premod.php:67 includes/search.php:133
+#: includes/tagcloud.php:26 includes/tags.php:63
+msgid "To Library"
+msgstr "Đến thư viện"
+
+#: includes/premod.php:26
+msgid "Moderation Articles"
+msgstr "Quản lý các bài viết"
+
+#: includes/premod.php:30
+msgid "Article"
+msgstr "Bài viết"
+
+#: includes/premod.php:30
+msgid "Added to the database"
+msgstr "Đã thêm vào cơ sở dữ liệu"
+
+#: includes/premod.php:33
+msgid "All Articles added in database"
+msgstr "Tất cả các bài viết đã được thêm vào cơ sở dữ liệu"
+
+#: includes/premod.php:66
+msgid "Approve all"
+msgstr "Cho phép tất cả"
+
+#: includes/search.php:35 includes/search.php:38 index.php:160
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: includes/search.php:39
+msgid "Search in titles Articles"
+msgstr "Tìm kiếm với tên bài viết"
+
+#: includes/search.php:46 includes/search.php:129
+msgid ""
+"Length of query: 4 min 64 max<br>Search is case-insensitive "
+"letters<br>Results are sorted by relevance"
+msgstr ""
+"Độ dài truy vấn: từ 4 đến 64 kí tự<br>Tìm kiếm với các kí tự không phân biệt "
+"hoa thường.<br>Kết quả sẽ được sắp xếp thích hợp"
+
+#: includes/search.php:61
+msgid "Search results"
+msgstr "Kết quả tìm kiếm"
+
+#: includes/search.php:111
+msgid "Your search did not match any results"
+msgstr "Tìm kiếm của bạn phù hợp với bất kì kết quả nào"
+
+#: includes/search.php:121
+msgid "To Page"
+msgstr "Đến trang"
+
+#: includes/search.php:132
+msgid "New Search"
+msgstr "Tìm kiếm mới"
+
+#: includes/tagcloud.php:19
+msgid "Sorted by alphabetical"
+msgstr "Sắp xếp theo chữ cái"
+
+#: includes/tagcloud.php:20
+msgid "Sorted by relevance"
+msgstr "Sắp xếp theo mức độ phù hợp"
+
+#: includes/tagcloud.php:23 index.php:160
+msgid "Tag Cloud"
+msgstr ""
+
+#: includes/tagcloud.php:24 includes/top.php:35
+msgid "Sort"
+msgstr "Sắp xếp"
+
+#: includes/top.php:29
+msgid "Most readings"
+msgstr "Đọc nhiều nhất"
+
+#: includes/top.php:30
+msgid "By rating"
+msgstr "Theo bình chọn"
+
+#: includes/top.php:31
+msgid "By comments"
+msgstr "Theo bình luận"
+
+#: includes/top.php:34 index.php:182
+msgid "Rating articles"
+msgstr "Bình chọn bài viết"
+
+#: index.php:69 index.php:134
+msgid "Library is closed"
+msgstr "Thư viện đã bị đóng cửa"
+
+#: index.php:168
+msgid "On moderation"
+msgstr ""
+
+#: index.php:205 index.php:261 index.php:262
+msgid "Up"
+msgstr "Lên"
+
+#: index.php:206 index.php:264 index.php:265
+msgid "Down"
+msgstr "Xuống"
+
+#: index.php:207 index.php:266 index.php:280 index.php:336 index.php:458
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: index.php:282
+msgid "Create"
+msgstr "Tạo mới"
+
+#: index.php:312 index.php:395
+msgid "The Tags"
+msgstr "Các thẻ"
+
+#: index.php:452
+msgid "Download file"
+msgstr "Tải tập tin"

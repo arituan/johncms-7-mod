@@ -1,0 +1,528 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: johncms\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2017-02-02 19:52+0700\n"
+"Last-Translator: mobiCMS <dev@mobicms.net>\n"
+"Language-Team: Vietnamese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-KeywordsList: _t;_p:1,2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: johncms\n"
+"X-Crowdin-Language: vi\n"
+"X-Crowdin-File: /system/system.pot\n"
+"Language: vi_VN\n"
+"X-Poedit-SearchPath-0: login.php\n"
+"X-Poedit-SearchPath-1: go.php\n"
+"X-Poedit-SearchPath-2: exit.php\n"
+"X-Poedit-SearchPath-3: system/johncms\n"
+"X-Poedit-SearchPath-4: system/head.php\n"
+"X-Poedit-SearchPath-5: system/end.php\n"
+"X-Poedit-SearchPath-6: system/mainmenu.php\n"
+
+#: exit.php:30
+msgid "Are you sure you want to leave the site?"
+msgstr "Bạn có chắc chắn muốn rời khỏi site?"
+
+#: exit.php:31
+msgid "Logout"
+msgstr "Thoát"
+
+#: exit.php:32 system/johncms/Comments.php:243
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+#: go.php:37
+msgid "Select language"
+msgstr "Chọn ngôn ngữ"
+
+#: go.php:43
+msgid "Default"
+msgstr "Mặc định"
+
+#: go.php:50
+msgid "Apply"
+msgstr "Áp dụng"
+
+#: go.php:50 go.php:67 system/johncms/Comments.php:112
+#: system/johncms/Comments.php:135 system/johncms/Comments.php:143
+#: system/johncms/Comments.php:146 system/johncms/Comments.php:163
+#: system/johncms/Comments.php:191 system/johncms/Comments.php:200
+#: system/johncms/Comments.php:203 system/johncms/Comments.php:247
+msgid "Back"
+msgstr "Quay lại"
+
+#: go.php:58
+msgid "External Link"
+msgstr "Liên kết ngoài"
+
+#: go.php:61
+msgid "ATTENTION!"
+msgstr "Chú Ý!"
+
+#: go.php:62
+msgid "You are going to leave our site and go to an external link"
+msgstr ""
+"Bạn đang để lại trang web của chúng tôi và đi đến một liên kết bên ngoài"
+
+#: go.php:63
+msgid ""
+"Administration of our site is not responsible for the content of external "
+"sites"
+msgstr ""
+"Quản lý trang web của chúng tôi không chịu trách nhiệm về nội dung của các "
+"trang web bên ngoài"
+
+#: go.php:64
+#, php-format
+msgid ""
+"It is recommended not to specify your data, relating to %s (Login, "
+"Password), on third party sites"
+msgstr ""
+"Đó là đề nghị không để xác định dữ liệu của liên quan đến %s (Nhập Mật mã), "
+"trên các trang thứ ba"
+
+#: go.php:65
+msgid "Go to Link"
+msgstr "Vào liên kết"
+
+#: login.php:37 system/end.php:35 system/head.php:108
+msgid "Home"
+msgstr "Trang chủ"
+
+#: login.php:39 login.php:158 system/head.php:110
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: login.php:49
+msgid "You have not entered login"
+msgstr "Bạn chưa nhập thông tin đăng nhập"
+
+#: login.php:53
+msgid "You have not entered password"
+msgstr "Bạn chưa nhập mật khẩu"
+
+#: login.php:57
+msgid "Nickname"
+msgstr "Tên Bạn"
+
+#: login.php:57 login.php:61
+msgid "Invalid length"
+msgstr "Chiều dài không hợp lệ"
+
+#: login.php:61 login.php:155
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: login.php:81
+msgid "The security code is not correct"
+msgstr "Mã bảo vệ là không đúng"
+
+#: login.php:87
+msgid "Verification code"
+msgstr "Mã xác minh"
+
+#: login.php:88
+msgid "Enter verification code"
+msgstr "Nhập mã xác nhận"
+
+#: login.php:92
+msgid "Continue"
+msgstr "Tiếp tục"
+
+#: login.php:104
+msgid ""
+"Sorry, but your request for registration is not considered yet. Please, be "
+"patient."
+msgstr ""
+"Xin lỗi, nhưng yêu cầu của bạn cho đăng ký là không được coi là sơ. Xin vui "
+"lòng, kiên nhẫn."
+
+#: login.php:128
+msgid "Enter site"
+msgstr "Vào trang web"
+
+#: login.php:137 login.php:141
+msgid "Authorization failed"
+msgstr "Không được phép truy cập"
+
+#: login.php:153
+msgid "Username"
+msgstr "Tên tài khoản"
+
+#: login.php:157
+msgid "Remember"
+msgstr "Ghi nhớ"
+
+#: login.php:160
+msgid "Registration"
+msgstr "Đăng ký"
+
+#: login.php:161
+msgid "Forgot password?"
+msgstr "Quên mật khẩu?"
+
+#: system/head.php:51
+msgid "Site News"
+msgstr "Trang web Tin tức"
+
+#: system/head.php:104
+msgid "Hi"
+msgstr "Chào"
+
+#: system/head.php:104 system/johncms/Tools.php:300
+msgid "Guest"
+msgstr "Khách"
+
+#: system/head.php:109
+msgid "Personal"
+msgstr "Cá nhân"
+
+#: system/head.php:196
+msgid "Ban"
+msgstr "Cấm"
+
+#: system/head.php:196
+msgid "Details"
+msgstr "Thông tin chi tiết"
+
+#: system/head.php:205
+msgid "System"
+msgstr "Hệ thống"
+
+#: system/head.php:217
+msgid "Mail"
+msgstr "Thư"
+
+#: system/head.php:221 system/johncms/Tools.php:243 system/mainmenu.php:42
+msgid "Guestbook"
+msgstr "Lưu bút"
+
+#: system/head.php:227
+msgid "Comments"
+msgstr "Bình luận"
+
+#: system/head.php:231 system/johncms/Counters.php:164
+msgid "Unread"
+msgstr "Chưa đọc"
+
+#: system/johncms/Bbcode.php:148
+msgid "Edit List"
+msgstr "Sửa danh sách"
+
+#: system/johncms/Bbcode.php:159
+msgid "Add Smilies"
+msgstr "Thêm Smilies"
+
+#: system/johncms/Bbcode.php:217
+msgid "Bold"
+msgstr "In đậm"
+
+#: system/johncms/Bbcode.php:218
+msgid "Italic"
+msgstr "In nghiêng"
+
+#: system/johncms/Bbcode.php:219
+msgid "Underline"
+msgstr "Gạch chân"
+
+#: system/johncms/Bbcode.php:220
+msgid "Strike"
+msgstr "Gạch ngang chữ"
+
+#: system/johncms/Bbcode.php:221
+msgid "List"
+msgstr "Danh sách"
+
+#: system/johncms/Bbcode.php:222
+msgid "Spoiler"
+msgstr ""
+
+#: system/johncms/Bbcode.php:223
+msgid "Quote"
+msgstr "Trích dẫn"
+
+#: system/johncms/Bbcode.php:224
+msgid "URL"
+msgstr ""
+
+#: system/johncms/Bbcode.php:225
+msgid "Code"
+msgstr "Mã"
+
+#: system/johncms/Bbcode.php:226
+msgid "Text Color"
+msgstr "Màu chữ"
+
+#: system/johncms/Bbcode.php:227
+msgid "Background Color"
+msgstr "Màu nền"
+
+#: system/johncms/Bbcode.php:230
+msgid "Smilies"
+msgstr ""
+
+#: system/johncms/Comments.php:104 system/johncms/Comments.php:299
+msgid "Reply"
+msgstr "Trả lời"
+
+#: system/johncms/Comments.php:112
+msgid "Administrator already replied to this message"
+msgstr "Ban quản trị đã trả lời bài viết này."
+
+#: system/johncms/Comments.php:146 system/johncms/Comments.php:200
+msgid "Wrong data"
+msgstr "Sai dữ liệu"
+
+#: system/johncms/Comments.php:154 system/johncms/Comments.php:300
+msgid "Edit"
+msgstr "Sửa"
+
+#: system/johncms/Comments.php:163
+msgid "You cannot edit posts of higher administration"
+msgstr ""
+
+#: system/johncms/Comments.php:240 system/johncms/Comments.php:242
+#: system/johncms/Comments.php:301
+msgid "Delete"
+msgstr "Xoá"
+
+#: system/johncms/Comments.php:241
+msgid "Do you really want to delete?"
+msgstr "Bạn có thực sự muốn xoá?"
+
+#: system/johncms/Comments.php:244
+msgid "Clear all messages from this user"
+msgstr "Xoá tất cả bài viết từ người dùng này"
+
+#: system/johncms/Comments.php:245
+msgid "Clear"
+msgstr "Dọn dẹp (xoá)"
+
+#: system/johncms/Comments.php:307
+msgid "Edited"
+msgstr "Đã chỉnh sửa"
+
+#: system/johncms/Comments.php:331 system/mainmenu.php:82
+msgid "The list is empty"
+msgstr "Danh sách rỗng"
+
+#: system/johncms/Comments.php:334
+msgid "Total"
+msgstr "Tổng"
+
+#: system/johncms/Comments.php:340
+msgid "To Page"
+msgstr "Đến trang"
+
+#: system/johncms/Comments.php:399
+msgid "Message"
+msgstr "Nội dung"
+
+#: system/johncms/Comments.php:402
+msgid "Send"
+msgstr "Gửi"
+
+#: system/johncms/Comments.php:422
+msgid "Text is too short"
+msgstr "Nội dung quá ngắn"
+
+#: system/johncms/Comments.php:428
+msgid "You cannot add the message so often<br>Please, wait"
+msgstr ""
+
+#: system/johncms/Comments.php:428
+msgid "seconds"
+msgstr "giây"
+
+#: system/johncms/Comments.php:438
+msgid "Message already exists"
+msgstr "Nội dung đã tồn tại"
+
+#: system/johncms/Counters.php:163
+msgid "Show for Period"
+msgstr "Hiện theo thời gian"
+
+#: system/johncms/Counters.php:170
+msgid "Last activity"
+msgstr "Hoạt động gần đây"
+
+#: system/johncms/NewsWidget.php:62
+msgid "show more"
+msgstr "Xem thêm"
+
+#: system/johncms/NewsWidget.php:95
+msgid "Discuss"
+msgstr "Thảo luận"
+
+#: system/johncms/Tools.php:136
+msgid "Today"
+msgstr "Hôm nay"
+
+#: system/johncms/Tools.php:139
+msgid "Yesterday"
+msgstr "Hôm qua"
+
+#: system/johncms/Tools.php:155
+msgid "ERROR"
+msgstr "LỖI"
+
+#: system/johncms/Tools.php:235
+msgid "List of Admins"
+msgstr "Danh sách của các quản trị"
+
+#: system/johncms/Tools.php:236
+msgid "Watching the photo album"
+msgstr "Đang xem photo album"
+
+#: system/johncms/Tools.php:237
+msgid "List of birthdays"
+msgstr "Danh sách sinh nhật"
+
+#: system/johncms/Tools.php:238 system/mainmenu.php:57
+msgid "Downloads"
+msgstr "Tải xuống"
+
+#: system/johncms/Tools.php:239
+msgid "Reading the FAQ"
+msgstr "Đọc FAQ"
+
+#: system/johncms/Tools.php:240 system/mainmenu.php:47
+msgid "Forum"
+msgstr "Diễn đàn"
+
+#: system/johncms/Tools.php:241
+msgid "Forum Files"
+msgstr "Tệp đính kèm diễn đàn"
+
+#: system/johncms/Tools.php:242
+msgid "Looking, who in Forum?"
+msgstr "Ai trong diễn đàn?"
+
+#: system/johncms/Tools.php:244
+msgid "Here, in the list"
+msgstr "Ở đây, trong danh sách này"
+
+#: system/johncms/Tools.php:245
+msgid "On the Homepage"
+msgstr "Trên Trang chủ"
+
+#: system/johncms/Tools.php:246 system/mainmenu.php:62
+msgid "Library"
+msgstr "Thư viện"
+
+#: system/johncms/Tools.php:247
+msgid "Personal correspondence"
+msgstr "Mối quan hệ cá nhân"
+
+#: system/johncms/Tools.php:248
+msgid "Reading the news"
+msgstr "Đọc tin tức"
+
+#: system/johncms/Tools.php:249
+msgid "Who is online?"
+msgstr "Ai đang trực tuyến"
+
+#: system/johncms/Tools.php:250
+msgid "Profile"
+msgstr ""
+
+#: system/johncms/Tools.php:251
+msgid "Personal Profile"
+msgstr ""
+
+#: system/johncms/Tools.php:252
+msgid "Registered on the site"
+msgstr "Đã đăng ký trên trang"
+
+#: system/johncms/Tools.php:253
+msgid "List of users"
+msgstr "Danh sách các người dùng"
+
+#: system/johncms/Tools.php:254
+msgid "Watching Top 10 Users"
+msgstr "Xem 10 người dùng đứng TOP"
+
+#: system/johncms/Tools.php:368
+msgid "Last Visit"
+msgstr "Vừa ghé thăm"
+
+#: system/johncms/Tools.php:374
+msgid "Browser"
+msgstr "Trình duyệt"
+
+#: system/johncms/Tools.php:375
+msgid "IP address"
+msgstr "Địa chỉ IP"
+
+#: system/johncms/Tools.php:394
+msgid "IP History"
+msgstr "Lịch sử IP"
+
+#: system/johncms/Tools.php:595
+msgid "Day"
+msgid_plural "Days"
+msgstr[0] ""
+
+#: system/mainmenu.php:30
+msgid "Information"
+msgstr "Thông tin"
+
+#: system/mainmenu.php:32
+msgid "News archive"
+msgstr "Tin tức lưu trữ"
+
+#: system/mainmenu.php:33
+msgid "Information, FAQ"
+msgstr "Thông tin, câu hỏi thường gặp"
+
+#: system/mainmenu.php:38
+msgid "Communication"
+msgstr "Thông tin"
+
+#: system/mainmenu.php:53
+msgid "Useful"
+msgstr "Hữu ích"
+
+#: system/mainmenu.php:69
+msgid "Community"
+msgstr "Cộng đồng"
+
+#: system/mainmenu.php:70
+msgid "Users"
+msgstr "Thành viên"
+
+#: system/mainmenu.php:71
+msgid "Photo Albums"
+msgstr "Albums hình ảnh"
+
+#: mainmenu.php
+msgid "Most active in Guestbook"
+msgstr "Tích cực nhất trong lưu bút"
+
+msgid "Most active in Forum"
+msgstr "Tích cực nhất trong diễn đàn"
+
+msgid "Most thanked"
+msgstr "Được cảm ơn nhiều nhất"
+
+msgid "List of TOP users empty, please!"
+msgstr "Danh sách xếp hạng còn đang trống, hãy đua TOP nào!"
+
+msgid "Users Online"
+msgstr "Tình trạng trực tuyến"
+
+msgid ""
+"There are currently %d users online: %d members and %d guests<br/>Most users "
+"ever online was %d (%d members and %d guests) at %s"
+msgstr ""
+"Có %d người đang hoạt động: %d thành viên và %d khách<br />Kỷ lục: %d người "
+"(%d thành viên và %d khách) lúc %s"
+
+msgid "Image"
+msgstr "Hình ảnh"

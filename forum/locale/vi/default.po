@@ -1,0 +1,867 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: johncms\n"
+"POT-Creation-Date: 2016-12-26 14:56+0400\n"
+"PO-Revision-Date: 2017-02-02 10:05+0700\n"
+"Last-Translator: mobiCMS <dev@mobicms.net>\n"
+"Language-Team: Vietnamese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi\n"
+"X-Poedit-KeywordsList: _t;_p:1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Crowdin-Project: johncms\n"
+"X-Crowdin-Language: vi\n"
+"X-Crowdin-File: /forum/default.pot\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/addfile.php:33 includes/addfile.php:42 includes/addvote.php:33
+#: includes/deltema.php:30 includes/delvote.php:32 includes/editpost.php:30
+#: includes/editvote.php:32 includes/files.php:83 includes/filter.php:24
+#: includes/filter.php:82 includes/loadtem.php:23 includes/loadtem.php:44
+#: includes/nt.php:97 includes/per.php:30 includes/per.php:39
+#: includes/per.php:49 includes/per.php:58 includes/post.php:30
+#: includes/ren.php:30 includes/ren.php:39 includes/tema.php:41
+#: includes/tema.php:61 includes/users.php:32 includes/vip.php:30
+#: includes/vip.php:40 includes/vote.php:35 index.php:873
+msgid "Wrong data"
+msgstr "Lỗi dữ liệu"
+
+#: includes/addfile.php:49
+msgid "The time allotted for the file upload has expired"
+msgstr "Thời gian được phân bổ cho các tập tin tải lên đã hết hạn"
+
+#: includes/addfile.php:49 includes/addvote.php:33 includes/addvote.php:101
+#: includes/curators.php:81 includes/editpost.php:62 includes/editpost.php:69
+#: includes/editpost.php:89 includes/editpost.php:91 includes/editpost.php:243
+#: includes/filter.php:42 includes/massdel.php:40 includes/massdel.php:43
+#: includes/nt.php:88 includes/nt.php:270 includes/per.php:105
+#: includes/ren.php:75 includes/say.php:88 includes/say.php:102
+#: includes/say.php:120 includes/say.php:132 includes/say.php:226
+#: includes/say.php:236 includes/say.php:243 includes/say.php:296
+#: includes/say.php:309 includes/say.php:421 includes/vote.php:43
+msgid "Back"
+msgstr "Quay lại"
+
+#: includes/addfile.php:58
+msgid "File is already uploaded"
+msgstr "Tập tin này đã tồn tại"
+
+#: includes/addfile.php:84
+msgid "File size exceed"
+msgstr "Dung lượng tập tin vượt quá"
+
+#: includes/addfile.php:89
+msgid ""
+"You may upload only files with a name and one extension <b>(name.ext</b>). "
+"Files without a name, extension, or with double extension are forbidden."
+msgstr ""
+"Chỉ được phép gửi file với tên và định dạng <b> (name.ext </b>). Hoặc tập "
+"tin không có tên, gia hạn, hoặc với dấu chấm tăng gấp đôi."
+
+#: includes/addfile.php:94
+msgid ""
+"The forbidden file format.<br>You can upload files of the following extension"
+msgstr ""
+"Định dạng tập tin không hợp lệ.<br>Bạn có thể tải lên các tập tin của phần "
+"mở rộng sau"
+
+#: includes/addfile.php:107
+msgid "File name contains invalid characters"
+msgstr "Trong tên tập tin chứa các kí tự không hợp lệ"
+
+#: includes/addfile.php:121
+msgid "File attached"
+msgstr "Tập tin đính kèm thành công"
+
+#: includes/addfile.php:123 includes/addfile.php:169
+msgid "Error uploading file"
+msgstr "Lỗi tải lên tập tin"
+
+#: includes/addfile.php:166 includes/addvote.php:74 includes/editpost.php:203
+#: includes/nt.php:235 includes/ren.php:49 includes/ren.php:59
+#: includes/say.php:288
+msgid "Repeat"
+msgstr "Lặp lại"
+
+#: includes/addfile.php:174 includes/addvote.php:72 includes/delvote.php:41
+#: includes/editvote.php:89
+msgid "Continue"
+msgstr "Tiếp tục"
+
+#: includes/addfile.php:177 includes/nt.php:261 includes/say.php:214
+#: includes/say.php:410 index.php:596 index.php:783
+msgid "Add File"
+msgstr "Thêm tập tin"
+
+#: includes/addfile.php:180
+msgid "Upload"
+msgstr "Tải lên"
+
+#: includes/addfile.php:181
+msgid "Max. Size"
+msgstr "Dung lượng lớn nhất"
+
+#: includes/addvote.php:72
+msgid "Poll added"
+msgstr "Thêm bỏ phiếu"
+
+#: includes/addvote.php:74
+msgid "The required fields are not filled"
+msgstr "Chưa Nhập Nội Dung"
+
+#: includes/addvote.php:78 includes/editvote.php:97
+msgid "Poll (max. 150)"
+msgstr "Câu hỏi bình chọn (tối đa 150 kí tự)"
+
+#: includes/addvote.php:94 includes/editvote.php:104 includes/tema.php:78
+msgid "Answer"
+msgstr "Trả lời"
+
+#: includes/addvote.php:98
+msgid "Add Answer"
+msgstr "Thêm trả lời"
+
+#: includes/addvote.php:99 includes/editvote.php:133
+msgid "Delete last"
+msgstr "Xóa mới nhất"
+
+#: includes/addvote.php:100 includes/editpost.php:239
+#: includes/editvote.php:136 includes/nt.php:265 includes/ren.php:73
+msgid "Save"
+msgstr "Lưu"
+
+#: includes/curators.php:33 includes/deltema.php:40 includes/say.php:426
+#: index.php:215
+msgid "Topic has been deleted or does not exists"
+msgstr "Chủ đề đã bị xoá, hoặc không tồn tại"
+
+#: includes/curators.php:43 includes/deltema.php:74 includes/editpost.php:97
+#: includes/editpost.php:179 includes/editpost.php:228
+#: includes/editvote.php:94 includes/file.php:46 includes/files.php:83
+#: includes/files.php:192 includes/filter.php:24 includes/filter.php:67
+#: includes/new.php:15 includes/new.php:71 includes/new.php:86
+#: includes/new.php:159 includes/new.php:230 includes/new.php:268
+#: includes/nt.php:245 includes/per.php:81 includes/post.php:133
+#: includes/ren.php:69 includes/say.php:376 includes/say.php:426
+#: includes/tema.php:96 includes/tema.php:102 includes/tema.php:145
+#: includes/who.php:90 includes/who.php:198 index.php:141 index.php:215
+#: index.php:255 index.php:882 index.php:907 search.php:31 search.php:230
+msgid "Forum"
+msgstr "Diễn đàn"
+
+#: includes/curators.php:43 index.php:816
+msgid "Curators"
+msgstr "Kiểm duyệt"
+
+#: includes/curators.php:71
+msgid "Assign"
+msgstr "Chỉ định"
+
+#: includes/curators.php:78 includes/files.php:162 includes/new.php:209
+#: includes/new.php:266 includes/who.php:71 includes/who.php:186
+msgid "The list is empty"
+msgstr "Danh sách rỗng"
+
+#: includes/curators.php:80 includes/files.php:150 includes/files.php:187
+#: includes/new.php:146 includes/new.php:212 includes/users.php:55
+#: includes/who.php:77 includes/who.php:189 index.php:335 index.php:394
+#: index.php:795 search.php:169
+msgid "Total"
+msgstr "Tổng số"
+
+#: includes/deltema.php:74 index.php:844
+msgid "Delete Topic"
+msgstr "Xóa chủ đề này"
+
+#: includes/deltema.php:76 includes/editpost.php:186 includes/massdel.php:54
+msgid "Do you really want to delete?"
+msgstr "Bạn có thực sự muốn xóa?"
+
+#: includes/deltema.php:77 includes/editpost.php:190
+msgid "Hide"
+msgstr "Ẩn đi"
+
+#: includes/deltema.php:78 includes/delvote.php:44 includes/editpost.php:187
+#: includes/editvote.php:57 includes/massdel.php:54 index.php:738
+#: index.php:769
+msgid "Delete"
+msgstr "Xóa"
+
+#: includes/deltema.php:79
+msgid "Perform"
+msgstr "Hiện"
+
+#: includes/deltema.php:80 includes/delvote.php:45 includes/editpost.php:187
+#: includes/editvote.php:58 includes/editvote.php:138 includes/massdel.php:55
+#: search.php:62
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+#: includes/delvote.php:41
+msgid "Poll deleted"
+msgstr "Thăm dò đã được xóa"
+
+#: includes/delvote.php:43
+msgid "Do you really want to delete a poll?"
+msgstr "Bạn có thực sự muốn xoá cuộc thăm dò này?"
+
+#: includes/editpost.php:62
+msgid "You cannot edit posts of higher administration"
+msgstr "Bạn không thể chỉnh sửa bài viết của người sử dụng cấp trên"
+
+#: includes/editpost.php:69
+msgid "You are trying to change another's post"
+msgstr "Bạn đang cố gắng để thay đổi bài viết của người khác"
+
+#: includes/editpost.php:89
+msgid "Your message not already latest, you cannot change it"
+msgstr ""
+"Bài đăng của bạn sẽ chỉnh sửa được trong 1 khoảng thời gian và khi hết "
+"khoảng thời gian đó bạn không thể thay đổi nó"
+
+#: includes/editpost.php:91
+msgid "You cannot edit your posts after 5 minutes"
+msgstr ""
+"Bạn không thể chỉnh sửa bài viết của bạn sau 5 phút. Bạn chỉ có thể chỉnh "
+"sửa nó trong vòng 5 phút sau khi gửi bài."
+
+#: includes/editpost.php:97
+msgid "Message does not exists or has been deleted"
+msgstr "Bài viết không tồn tại hoặc đã bị xóa"
+
+#: includes/editpost.php:179
+msgid "Delete Message"
+msgstr "Xóa Tin nhắn"
+
+#: includes/editpost.php:183
+msgid ""
+"WARNING!<br>This is last post of topic. By deleting this post topic will be "
+"deleted (or hidden) too"
+msgstr ""
+"CẢNH BÁO!<br>Đây là bài cuối cùng của chủ đề. Chủ đề sẽ bị xóa (hoặc ẩn) và "
+"sẽ quay lại phần của chủ đề"
+
+#: includes/editpost.php:194
+msgid ""
+"After deleting, one point will be subtracted from the counter of forum posts"
+msgstr ""
+"Trong trường hợp các bài viết của diễn đàn bị loại bỏ, tổng số bài viết truy "
+"cập sẽ bị trừ một điểm"
+
+#: includes/editpost.php:203 includes/nt.php:127 includes/say.php:288
+msgid "You have not entered the message"
+msgstr "Bạn chưa nhập nội dung"
+
+#: includes/editpost.php:228
+msgid "Edit Message"
+msgstr "Chỉnh sửa bài viết"
+
+#: includes/editpost.php:240 includes/nt.php:266 includes/say.php:220
+#: includes/say.php:415 index.php:598 index.php:786
+msgid "Preview"
+msgstr "Xem trước"
+
+#: includes/editpost.php:242 includes/nt.php:269 includes/say.php:225
+#: includes/say.php:420
+msgid "Smilies"
+msgstr "Mặt cười"
+
+#: includes/editvote.php:56
+msgid "Do you really want to delete the answer?"
+msgstr "Bạn có thực sự muốn xóa câu trả lời?"
+
+#: includes/editvote.php:89
+msgid "Poll changed"
+msgstr "Thay đổi bỏ phiếu"
+
+#: includes/editvote.php:94 index.php:828
+msgid "Edit Poll"
+msgstr "Sửa Thăm dò"
+
+#: includes/editvote.php:132
+msgid "Add"
+msgstr "Thêm"
+
+#: includes/file.php:46
+msgid "File does not exist"
+msgstr "Tập tin không tồn tại"
+
+#: includes/files.php:31
+msgid "Windows applications"
+msgstr "Các ứng dụng Windows"
+
+#: includes/files.php:32
+msgid "Java applications"
+msgstr "Ứng dụng Java"
+
+#: includes/files.php:33
+msgid "SIS"
+msgstr "SIS"
+
+#: includes/files.php:34
+msgid "txt"
+msgstr "txt"
+
+#: includes/files.php:35
+msgid "Pictures"
+msgstr "Hình ảnh"
+
+#: includes/files.php:36
+msgid "Archive"
+msgstr "Tập tin nén"
+
+#: includes/files.php:37
+msgid "Videos"
+msgstr "Video"
+
+#: includes/files.php:38
+msgid "MP3"
+msgstr "MP3"
+
+#: includes/files.php:39
+msgid "Other"
+msgstr "Khác"
+
+#: includes/files.php:53 index.php:269
+msgid "Category Files"
+msgstr "Thể loại tập tin"
+
+#: includes/files.php:59
+msgid "Section files"
+msgstr "Tập tin phần"
+
+#: includes/files.php:65 index.php:281
+msgid "Topic Files"
+msgstr "Tập tin chủ đề"
+
+#: includes/files.php:71
+msgid "Forum Files"
+msgstr "Tập tin diễn đàn"
+
+#: includes/files.php:95 includes/files.php:168
+msgid "New Files"
+msgstr "Các Tập Tin Mới"
+
+#: includes/files.php:114 index.php:557 search.php:158
+msgid "Read more"
+msgstr "Đọc chi tiết"
+
+#: includes/files.php:131 includes/post.php:118 index.php:710
+msgid "Click to view image"
+msgstr "Click để xem ảnh gốc"
+
+#: includes/files.php:139
+msgid "Size"
+msgstr "Kích thước"
+
+#: includes/files.php:139
+msgid "Downloaded"
+msgstr "Đã tải xuống"
+
+#: includes/files.php:139 index.php:716
+msgid "Time"
+msgstr "Thời gian"
+
+#: includes/files.php:159 includes/new.php:152 includes/new.php:219
+#: includes/users.php:61 includes/who.php:83 includes/who.php:195
+#: index.php:400 index.php:802 search.php:226
+msgid "To Page"
+msgstr "Đến trang"
+
+#: includes/files.php:169
+msgid "No new files"
+msgstr "Không có tập tin mới"
+
+#: includes/files.php:191
+msgid "List of sections"
+msgstr "Danh sách các phần"
+
+#: includes/filter.php:42
+msgid "You have not selected any author"
+msgstr "Bạn chưa chọn tác giả muốn xem"
+
+#: includes/filter.php:67 index.php:864
+msgid "Filter by author"
+msgstr "Lọc theo tác giả"
+
+#: includes/filter.php:78
+msgid "Filter"
+msgstr "Lọc"
+
+#: includes/filter.php:79
+msgid "Filter will be display posts from selected authors only"
+msgstr "Bộ lọc sẽ được hiển thị chỉ những bài viết của các tác giả bạn chọn"
+
+#: includes/filter.php:86 includes/post.php:132
+msgid "Back to topic"
+msgstr "Quay lại chủ đề"
+
+#: includes/massdel.php:40
+msgid "Marked posts are deleted"
+msgstr "Các bài viết được chọn đã xoá thành công"
+
+#: includes/massdel.php:43
+msgid "You did not choose something to delete"
+msgstr "Bạn chưa chọn thứ bạn muốn loại bỏ"
+
+#: includes/new.php:15 includes/new.php:159
+msgid "Unread"
+msgstr "Chưa đọc"
+
+#: includes/new.php:71
+msgid "All topics marked as read"
+msgstr "Tất cả các chủ đề được đánh dấu là đã đọc thành công"
+
+#: includes/new.php:86
+#, php-format
+msgid "All for period %d hours"
+msgstr "Tất cả bài viết trong %d giờ"
+
+#: includes/new.php:91
+msgid "Show period"
+msgstr "Hiển thị theo thời gian"
+
+#: includes/new.php:143
+msgid "There is nothing new in this forum for selected period"
+msgstr ""
+"Đối với thời gian được chọn, diễn đàn không có bài viết nào mới trong khoảng "
+"thời gian này"
+
+#: includes/new.php:224
+msgid "Mark as read"
+msgstr "Đánh dấu là đã đọc"
+
+#: includes/new.php:230
+msgid "Last 10"
+msgstr "10 bài mới nhất chưa đọc"
+
+#: includes/nt.php:38 includes/say.php:38
+msgid "Access forbidden"
+msgstr "Truy cập bị từ chối"
+
+#: includes/nt.php:88 includes/say.php:88
+#, php-format
+msgid "You cannot add the message so often<br>Please, wait %d sec."
+msgstr "Bạn không thể thêm bài viết ngay lúc này<br>Vui lòng chờ %d giây."
+
+#: includes/nt.php:119 includes/ren.php:49
+msgid "You have not entered topic name"
+msgstr "Bạn chưa nhập tên chủ đề"
+
+#: includes/nt.php:123
+msgid "Topic name too short"
+msgstr "Tên chủ đề quá ngắn"
+
+#: includes/nt.php:131 includes/say.php:120 includes/say.php:296
+msgid "Text is too short"
+msgstr "Nội dung quá ngắn"
+
+#: includes/nt.php:139 includes/ren.php:59
+msgid "Topic with same name already exists in this section"
+msgstr "Tên chủ đề đã tồn tại trong phần này. Bạn hãy thay đổi một tên khác"
+
+#: includes/nt.php:149 includes/say.php:132 includes/say.php:309
+msgid "Message already exists"
+msgstr "Bài viết đã tồn tại"
+
+#: includes/nt.php:245 index.php:346
+msgid "New Topic"
+msgstr "Tạo chủ đề mới"
+
+#: includes/nt.php:254 includes/per.php:85
+msgid "Section"
+msgstr "Mục"
+
+#: includes/nt.php:256
+msgid "Title(max. 100)"
+msgstr "Tiêu đề (kí tự nhiều nhất 100)"
+
+#: includes/nt.php:258 includes/say.php:211 includes/say.php:407
+msgid "Message"
+msgstr "Nội dung"
+
+#: includes/per.php:81 index.php:852
+msgid "Move Topic"
+msgstr "Di chuyển chủ đề"
+
+#: includes/per.php:84
+msgid "Category"
+msgstr "Thể loại"
+
+#: includes/per.php:94
+msgid "Move"
+msgstr "Di chuyển"
+
+#: includes/per.php:96
+msgid "Other categories"
+msgstr "Các chuyên mục"
+
+#: includes/post.php:42 includes/say.php:204 includes/say.php:382
+msgid "Topic"
+msgstr "Chủ đề"
+
+#: includes/post.php:81 index.php:534 index.php:664
+msgid "[r]"
+msgstr "[r]"
+
+#: includes/post.php:82 index.php:535 index.php:665
+msgid "[q]"
+msgstr "[q]"
+
+#: includes/post.php:106 index.php:698
+msgid "Attachment"
+msgstr "Tập tin đính kèm"
+
+#: includes/post.php:124 index.php:716
+msgid "Downloads"
+msgstr "Tải xuống"
+
+#: includes/ren.php:69 index.php:830
+msgid "Rename Topic"
+msgstr "Đổi tên chủ đề"
+
+#: includes/ren.php:71
+msgid "Topic name"
+msgstr "Tiêu đề"
+
+#: includes/say.php:102 includes/say.php:236
+msgid "You cannot write in a closed topic"
+msgstr "Bạn không thể gửi bài viết trong một chủ đề đã đóng cửa"
+
+#: includes/say.php:219 includes/say.php:414
+msgid "Send"
+msgstr "Gửi"
+
+#: includes/say.php:265 includes/say.php:403
+msgid "I am glad to answer you"
+msgstr "Tôi sẵn lòng trả lời bạn"
+
+#: includes/say.php:269 includes/say.php:404
+msgid "respond to Your message"
+msgstr "trả lời bài viết của bạn"
+
+#: includes/say.php:396 includes/tema.php:77
+msgid "Quote"
+msgstr "Trích dẫn"
+
+#: includes/say.php:398
+msgid "Only allowed 200 characters, other text will be cropped."
+msgstr ""
+"Chỉ có 200 ký tự được hiển thị, văn bản khác sẽ được cắt để xem trong phần "
+"chi tiết."
+
+#: includes/say.php:401
+msgid "Appeal"
+msgstr "Lời nói đầu"
+
+#: includes/tema.php:96 includes/tema.php:145 includes/tema.php:153
+msgid "Download"
+msgstr "Tải"
+
+#: includes/tema.php:96 includes/tema.php:145
+msgid "Link active 5 minutes"
+msgstr "Đường dẫn chỉ tồn tại trong 5 phút"
+
+#: includes/tema.php:135
+msgid "This theme was downloaded from the forum site"
+msgstr "Chủ đề này đã được tải về từ trang web của diễn đàn"
+
+#: includes/tema.php:149
+msgid "Select format"
+msgstr "Chọn định dạng"
+
+#: includes/users.php:37
+msgid "Who voted in the poll"
+msgstr "Danh sách người tham gia thăm dò"
+
+#: includes/users.php:52
+msgid "No one has voted in this poll yet"
+msgstr "Không một ai đã tham gia bỏ phiếu cho thăm dò này"
+
+#: includes/users.php:64 includes/who.php:87 search.php:161
+msgid "Go to Topic"
+msgstr "Tới chủ đề"
+
+#: includes/vote.php:43
+msgid "Vote accepted"
+msgstr "Đã chấp nhận bình chọn"
+
+#: includes/who.php:15 includes/who.php:90 index.php:901
+msgid "Who in Forum"
+msgstr "Ai đang ở diễn đàn"
+
+#: includes/who.php:42
+msgid "Who in Topic"
+msgstr "Ai đang xem chủ đề"
+
+#: includes/who.php:46
+msgid "Authorized"
+msgstr "Đã đăng nhập"
+
+#: includes/who.php:46 includes/who.php:93 includes/who.php:94
+msgid "Guests"
+msgstr "Khách"
+
+#: includes/who.php:93 includes/who.php:94
+msgid "Users"
+msgstr "Thành viên"
+
+#: includes/who.php:123
+msgid "In the forum Main"
+msgstr "Trong diễn đàn chính"
+
+#: includes/who.php:127
+msgid "Here, in the List"
+msgstr "Ở đây, trong danh sách"
+
+#: includes/who.php:131
+msgid "Looking forum files"
+msgstr "Hãy tìm các tập tin diễn đàn"
+
+#: includes/who.php:135
+msgid "In the unreads"
+msgstr "Chủ đề chưa đọc"
+
+#: includes/who.php:139 search.php:29
+msgid "Forum search"
+msgstr "Tìm kiếm diễn đàn"
+
+#: includes/who.php:153
+msgid "In the Category"
+msgstr "Trong các thể loại"
+
+#: includes/who.php:157
+msgid "In the Section"
+msgstr "Trong phần"
+
+#: includes/who.php:161
+msgid "Writes in the Topic"
+msgstr "Gửi bài viết cho chủ đề này"
+
+#: includes/who.php:161 includes/who.php:169
+msgid "In the Topic"
+msgstr "Trong chủ đề"
+
+#: includes/who.php:169
+msgid "Answers in the Topic"
+msgstr "Các trả lời trong chủ đề"
+
+#: index.php:125 index.php:194
+msgid "Forum is closed"
+msgstr "Diễn đàn tạm thời đóng cửa"
+
+#: index.php:127
+msgid "For registered users only"
+msgstr "Chỉ cho người dùng đăng ký"
+
+#: index.php:196
+msgid "Read only"
+msgstr "Chỉ đọc"
+
+#: index.php:275
+msgid "Section Files"
+msgstr "Tập tin phần"
+
+#: index.php:293
+msgid "Who is here"
+msgstr "Ai đang ở đây"
+
+#: index.php:299 index.php:883 search.php:31 search.php:79
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: index.php:332
+msgid "There are no sections in this category"
+msgstr "Trong thể loại này không có phân vùng"
+
+#: index.php:391
+msgid "No topics in this section"
+msgstr "Không có chủ đề trong phần này"
+
+#: index.php:432
+msgid "Topic deleted"
+msgstr "Chủ đề đã bị xóa"
+
+#: index.php:432
+msgid "Go to Section"
+msgstr "Tới phần"
+
+#: index.php:454
+msgid "Topic deleted by"
+msgstr "Chủ đề bị xóa bởi"
+
+#: index.php:456
+msgid "Undelete topic"
+msgstr "Chủ đề bị xóa, được khôi phục bởi"
+
+#: index.php:461
+msgid "Topic closed"
+msgstr "Chủ đề đã đóng cửa"
+
+#: index.php:480 index.php:503
+msgid "Vote"
+msgstr "Bình chọn"
+
+#: index.php:481
+msgid "Results"
+msgstr "Kết quả"
+
+#: index.php:489
+msgid "Rating"
+msgstr "Đánh giá"
+
+#: index.php:492
+msgid "Total votes"
+msgstr "Tổng số bình chọn"
+
+#: index.php:551 index.php:744
+msgid "Post deleted"
+msgstr "Bài đã bị xóa"
+
+#: index.php:565
+msgid "Filter by author is activated"
+msgstr "Bộ lọc của tác giả được kích hoạt"
+
+#: index.php:597 index.php:602 index.php:785 index.php:790
+msgid "Write"
+msgstr "Viết"
+
+#: index.php:689
+msgid "Edited"
+msgstr "Đã chỉnh sửa"
+
+#: index.php:736
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: index.php:737
+msgid "Restore"
+msgstr "Khôi phục"
+
+#: index.php:746
+msgid "Post restored by"
+msgstr "Chủ đề được khôi phục bởi"
+
+#: index.php:824
+msgid "Curators of the Topic"
+msgstr "Kiểm duyệt chủ đề"
+
+#: index.php:828
+msgid "Delete Poll"
+msgstr "Xóa bình chọn"
+
+#: index.php:829
+msgid "Add Poll"
+msgstr "Thêm thăm dò (khảo sát)"
+
+#: index.php:834
+msgid "Open Topic"
+msgstr "Mở khoá chủ đề"
+
+#: index.php:836
+msgid "Close Topic"
+msgstr "Đóng cửa chủ đề"
+
+#: index.php:841
+msgid "Restore Topic"
+msgstr "Khôi phục chủ đề"
+
+#: index.php:847
+msgid "Unfix Topic"
+msgstr "Tháo chủ đề"
+
+#: index.php:849
+msgid "Pin Topic"
+msgstr "Pin Chủ Đề"
+
+#: index.php:862
+msgid "Cancel Filter"
+msgstr "Huỷ bộ lọc"
+
+#: index.php:868
+msgid "Download Topic"
+msgstr "Xem chủ để ngoại tuyến (Offline)"
+
+#: index.php:883
+msgid "Files"
+msgstr "Tập tin"
+
+#: index.php:910
+msgid "Forum rules"
+msgstr "Nội quy diễn đàn"
+
+#: index.php:917
+msgid "New at the top"
+msgstr "Sắp xếp theo thứ tự từ trên xuống"
+
+#: index.php:919
+msgid "New at the bottom"
+msgstr "Sắp xếp theo thứ tự từ dưới lên"
+
+#: search.php:60
+msgid "Do you really want to clear the search history?"
+msgstr "Bạn có thực sự muốn xóa lịch sử tìm kiếm?"
+
+#: search.php:61
+msgid "Clear"
+msgstr "Xoá"
+
+#: search.php:80
+msgid "Search in the topic names"
+msgstr "Tìm kiếm tên chủ đề"
+
+#: search.php:96
+msgid "Search results"
+msgstr "Kết quả tìm kiếm"
+
+#: search.php:162
+msgid "Go to Message"
+msgstr "Đi để gửi bài viết"
+
+#: search.php:167
+msgid "Your search did not match any results"
+msgstr "Tìm kiếm của bạn không phù hợp"
+
+#: search.php:172
+msgid "Invalid length"
+msgstr "Chiều dài không hợp lệ"
+
+#: search.php:175
+msgid ""
+"Length of query: 4min., 64maks.<br>Search is case insensitive <br>Results "
+"are sorted by relevance."
+msgstr ""
+"Chiều dài của từ khóa chỉ được phép có từ 4-64 kí tự.<br>Tìm kiếm là trường "
+"hợp bài viết hay chủ đề <br>Kết quả được sắp xếp theo độ liên quan."
+
+#: search.php:208
+msgid "Search History"
+msgstr "Tìm kiếm lịch sử"
+
+#: search.php:230
+msgid "New Search"
+msgstr "Tìm kiếm mới"
+
+#: includes/thank.php:37
+msgid "thanked this post"
+msgstr "đã cảm ơn bài viết"
+
+#: index.php:692
+msgid "Have %d users thanked this post"
+msgstr "Có %d người dùng đã cảm ơn bài viết này"
+
+#: index.php:833
+msgid "Other topics"
+msgstr "Chủ đề khác"
+
+#: includes/say.php
+msgid "has written in topic that you interested"
+msgstr "đã viết trong một chủ đề mà bạn quan tâm"
+
+msgid "has mentions you in a topic"
+msgstr "đã nhắc bạn trong một chủ đề"
