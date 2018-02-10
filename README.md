@@ -1,10 +1,20 @@
 # JohnCMS 7 mod version
 # Giới thiệu tổng quan (Introduction)
-Đây là mã nguồn CMS dành cho mobile được viết bằng PHP. Có đầy đủ chức của một CMS như: hệ thống quản lý người dùng, diễn đàn thảo luận, lưu bút trò chuyện, thư viên lưu trữ tài liệu + sách, mô đun tải về, mô đun album ảnh,...
+Đây là mã nguồn CMS (Content Management System) dành cho mobile được viết bằng PHP. Có đầy đủ chức của một CMS như: hệ thống quản lý người dùng, diễn đàn thảo luận, lưu bút trò chuyện, thư viên lưu trữ tài liệu + sách, mô đun tải về, mô đun album ảnh,...
 
 Đây là một mã nguồn gọn nhẹ đáp ứng được nhu cầu tạo một trang CMS đơn giản, load nhanh, hiệu quả, thích hợp cho người mới bắt đầu làm quen với việc tạo lập một trang CMS bằng PHP + MySQL.
+
+\---------------------------
+
+This is CMS code for mobile written in PHP. Fully functional of a CMS such as: user management system, discussion forum, chat guestbook, library module, download module, photo album module, ...
+
+This is a lightweight CMS source code, fast loading, effective, suitable for beginners with CMS PHP + MySQL.
 # Lý do chọn mã nguồn này để chỉnh sửa (Reason for modify JohnCMS)
 Từ việc JohnCMS thay đổi cấu trúc mã nguồn từ phiên bản 7.x.x sử dụng cấu trúc mới DI container, PDO class, Gettext translator... hiện đại hơn, nhanh hơn. Mình quyết định mod lại mã nguồn này và thêm vào đó những module cần thiết.
+
+\----------------------------
+
+Since JohnCMS changed the source code structure from version 7.x.x using the new DI container structure, PDO class, Gettext translator ... more modern, faster. I decided to modify this code and add the necessary modules.
 # Danh mục các thay đổi mà tác giả đã đóng góp vào phiên bản này (change log)
 - Áp dụng theme selemet thay vì theme default như trước đây sau khi cài đặt.
 - Thêm màu nick cho các thành viên ban quản trị *(add color nick for adminstrators)*. Tức mỗi thành viên tùy theo chức vụ trong forum sẽ màu nick khác nhau để dễ phân biệt giữa thành viên bình thường và thành viên ban quản trị.
@@ -38,6 +48,8 @@ Từ việc JohnCMS thay đổi cấu trúc mã nguồn từ phiên bản 7.x.x 
   + Zlib library
   + mbstring library
 # Cài đặt và sử dụng (Install)
-Tiến hành clone source về và upload vào thư mục mà bạn muốn cài đặt
+Tiến hành clone source về và upload vào thư mục mà bạn muốn cài đặt.
+
 Sau đó chạy đường dẫn sau để tiến hành cài đặt: HOME/install/index.php
+
 Chọn ngôn ngữ tiếng Việt nếu như bạn không dùng được tiếng Anh. (Tôi đã đóng góp bản dịch tiếng Việt vào cài đặt).
